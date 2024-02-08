@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Amazon_Testsuite_excel001" time="9.32" tests="1" failures="0" errors="0">
+   <testsuite name="Amazon_Testsuite_excel001" tests="1" failures="0" errors="0" time="9.32" skipped="0" timestamp="07-02-2024T13:16:25" hostname="gopi krishna - LENOVO-C340" id="Test Suites/Amazon_Testsuite_excel001">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\gopi krishna\\git\\Amazon-Project\\Reports\\20240207_131620\\Amazon_Testsuite_excel001\\20240207_131621"/>
+         <property name="logFiles" value="C:\\Users\\gopi krishna\\git\\Amazon-Project\\Reports\\20240207_131620\\Amazon_Testsuite_excel001\\20240207_131621\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="gopi krishna - LENOVO-C340"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Chrome 121.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.9"/>
+         <property name="sessionId" value="dc42d745ed0bce5e6de39e27444cf13c"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Amazon_testcase_001" time="9.076" classname="Test Cases/Amazon_testcase_001" status="PASSED">
+         <system-out><![CDATA[07-02-2024T13:16:25 - [TEST_CASE][PASSED] - Test Cases/Amazon_testcase_001: Test Cases/Amazon_testcase_001
+
+07-02-2024T13:16:26 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+07-02-2024T13:16:26 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+07-02-2024T13:16:26 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+07-02-2024T13:16:27 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+07-02-2024T13:16:27 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+07-02-2024T13:16:29 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+07-02-2024T13:16:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Online Shopping site in India Shop Onl_10c5f3/span_Hello, sign in")): Object: 'Object Repository/Page_Online Shopping site in India Shop Onl_10c5f3/span_Hello, sign in' is clicked on
+
+07-02-2024T13:16:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Online Shopping site in India Shop Onl_10c5f3/span_Hello, sign in' is clicked on
+
+07-02-2024T13:16:30 - [TEST_STEP][PASSED] - setText(findTestObject("Amazon_button001/Page_Amazon Sign In/input_Email or mobile phone number_email"), Email): Text 'gopi9162816@gmail.com' is set on object 'Object Repository/Amazon_button001/Page_Amazon Sign In/input_Email or mobile phone number_email'
+
+07-02-2024T13:16:31 - [MESSAGE][PASSED] - Text 'gopi9162816@gmail.com' is set on object 'Object Repository/Amazon_button001/Page_Amazon Sign In/input_Email or mobile phone number_email'
+
+07-02-2024T13:16:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Amazon Sign In/inputcontinue")): Object: 'Object Repository/Page_Amazon Sign In/inputcontinue' is clicked on
+
+07-02-2024T13:16:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Amazon Sign In/inputcontinue' is clicked on
+
+07-02-2024T13:16:33 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Amazon_button001/Page_Amazon Sign In/input_Forgot Password_password"), "0KgSb6dmQkDO+DyTs7S1JA=="): Text ****** has been set on object 'Object Repository/Amazon_button001/Page_Amazon Sign In/input_Forgot Password_password'
+
+07-02-2024T13:16:34 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Amazon_button001/Page_Amazon Sign In/input_Forgot Password_password'
+
+07-02-2024T13:16:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Amazon Sign In/inputsignInSubmit")): Object: 'Object Repository/Page_Amazon Sign In/inputsignInSubmit' is clicked on
+
+07-02-2024T13:16:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Amazon Sign In/inputsignInSubmit' is clicked on
+
+07-02-2024T13:16:34 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+07-02-2024T13:16:34 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[07-02-2024T13:16:25 - [TEST_SUITE][PASSED] - Amazon_Testsuite_excel001: Test Cases/Amazon_testcase_001]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

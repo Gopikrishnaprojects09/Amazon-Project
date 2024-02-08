@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Amazon_testcase_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>03c5eec0-c5fa-4cc0-9579-afa9c80ce4b4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>86a7f14c-8841-4e47-a045-7a9efab25fc9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'gopi9162816@gmail.com'</defaultValue>
+      <description></description>
+      <id>86a7f14c-8841-4e47-a045-7a9efab25fc9</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+</TestCaseEntity>

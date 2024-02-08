@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Amazon_TestSuiteCollection002" time="40.52" tests="1" failures="0" errors="0">
+   <testsuite name="Amazon_testsuite002" tests="1" failures="0" errors="0" time="31.128" skipped="0" timestamp="07-02-2024T23:35:21" hostname="gopi krishna - LENOVO-C340" id="Test Suites/Amazon_testsuite002">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\gopi krishna\\git\\Amazon-Project\\Reports\\20240207_233510\\Amazon_testsuite002\\20240207_233511"/>
+         <property name="logFiles" value="C:\\Users\\gopi krishna\\git\\Amazon-Project\\Reports\\20240207_233510\\Amazon_testsuite002\\20240207_233511\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="gopi krishna - LENOVO-C340"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.3.0.212"/>
+         <property name="browser" value="Chrome 121.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.9"/>
+         <property name="sessionId" value="650639b9e837b3d7a47d27685a476dad"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Amazon_testcase_002" time="30.595" classname="Test Cases/Amazon_testcase_002" status="PASSED">
+         <system-out><![CDATA[07-02-2024T23:35:22 - [TEST_CASE][PASSED] - Test Cases/Amazon_testcase_002: Test Cases/Amazon_testcase_002
+
+07-02-2024T23:35:22 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Navigate to 'https://www.amazon.in/' successfully
+
+07-02-2024T23:35:22 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+07-02-2024T23:35:23 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+07-02-2024T23:35:23 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+07-02-2024T23:35:26 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+07-02-2024T23:35:26 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+07-02-2024T23:35:27 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+07-02-2024T23:35:27 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+07-02-2024T23:35:27 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+07-02-2024T23:35:27 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+07-02-2024T23:35:27 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+07-02-2024T23:35:28 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+07-02-2024T23:35:28 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+07-02-2024T23:35:30 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+07-02-2024T23:35:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazontestcase002_OR/Page_Online Shopping site in India Shop Onl_10c5f3/span_Hello, sign in")): Object: 'Object Repository/Amazontestcase002_OR/Page_Online Shopping site in India Shop Onl_10c5f3/span_Hello, sign in' is clicked on
+
+07-02-2024T23:35:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazontestcase002_OR/Page_Online Shopping site in India Shop Onl_10c5f3/span_Hello, sign in' is clicked on
+
+07-02-2024T23:35:32 - [TEST_STEP][PASSED] - setText(findTestObject("Amazon_button002/Page_Amazon Sign In/input_Email or mobile phone number_email"), Email): Text 'gopi9162816@gmail.com' is set on object 'Object Repository/Amazon_button002/Page_Amazon Sign In/input_Email or mobile phone number_email'
+
+07-02-2024T23:35:34 - [MESSAGE][PASSED] - Text 'gopi9162816@gmail.com' is set on object 'Object Repository/Amazon_button002/Page_Amazon Sign In/input_Email or mobile phone number_email'
+
+07-02-2024T23:35:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazontestcase002_OR/Page_Amazon Sign In/input_Enter your email or mobile phone numb_fc7402")): Object: 'Object Repository/Amazontestcase002_OR/Page_Amazon Sign In/input_Enter your email or mobile phone numb_fc7402' is clicked on
+
+07-02-2024T23:35:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazontestcase002_OR/Page_Amazon Sign In/input_Enter your email or mobile phone numb_fc7402' is clicked on
+
+07-02-2024T23:35:36 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Amazontestcase002_OR/Page_Amazon Sign In/input_Forgot Password_password"), "0KgSb6dmQkDO+DyTs7S1JA=="): Text ****** has been set on object 'Object Repository/Amazontestcase002_OR/Page_Amazon Sign In/input_Forgot Password_password'
+
+07-02-2024T23:35:37 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Amazontestcase002_OR/Page_Amazon Sign In/input_Forgot Password_password'
+
+07-02-2024T23:35:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazontestcase002_OR/Page_Amazon Sign In/input_Enter your password_signInSubmit")): Object: 'Object Repository/Amazontestcase002_OR/Page_Amazon Sign In/input_Enter your password_signInSubmit' is clicked on
+
+07-02-2024T23:35:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazontestcase002_OR/Page_Amazon Sign In/input_Enter your password_signInSubmit' is clicked on
+
+07-02-2024T23:35:38 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Amazon_button002/Page_Online Shopping site in India Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in/select_All Categories"), "search-alias=appliances", true): All options with value 'search-alias=appliances' are selected in object 'Object Repository/Amazon_button002/Page_Online Shopping site in India Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in/select_All Categories'  using regular expression
+
+07-02-2024T23:35:46 - [MESSAGE][PASSED] - All options with value 'search-alias=appliances' are selected in object 'Object Repository/Amazon_button002/Page_Online Shopping site in India Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in/select_All Categories'  using regular expression
+
+07-02-2024T23:35:46 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazontestcase002_OR/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_field-keywords"), Input): Text 'iphone 14 pro' is set on object 'Object Repository/Amazontestcase002_OR/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_field-keywords'
+
+07-02-2024T23:35:47 - [MESSAGE][PASSED] - Text 'iphone 14 pro' is set on object 'Object Repository/Amazontestcase002_OR/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_field-keywords'
+
+07-02-2024T23:35:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazontestcase002_OR/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_nav-search-submit-button")): Object: 'Object Repository/Amazontestcase002_OR/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_nav-search-submit-button' is clicked on
+
+07-02-2024T23:35:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazontestcase002_OR/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_nav-search-submit-button' is clicked on
+
+07-02-2024T23:35:52 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+07-02-2024T23:35:52 - [MESSAGE][PASSED] - Browser is closed
+
+07-02-2024T23:35:52 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+07-02-2024T23:35:52 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+07-02-2024T23:35:52 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[07-02-2024T23:35:21 - [TEST_SUITE][PASSED] - Amazon_testsuite002: Test Cases/Amazon_testcase_002]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

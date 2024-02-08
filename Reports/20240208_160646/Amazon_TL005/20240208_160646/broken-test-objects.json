@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazontestcase005_OR/Page_Amazon.in  one plus 12/span_OnePlus 12 (Silky Black, 12 GB RAM, 256GB)",
+      "brokenLocator": "//div[@id\u003d\u0027search\u0027]/div/div/div/span/div/div[4]/div/div/span/div/div/div/div[2]/div/div/div/h2/a/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027₹\u0027])[2]/preceding::span[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240208_160646/Amazon_TL005/20240208_160646/Object Repository/Amazontestcase005_OR/Page_Amazon.in  one plus 12/span_OnePlus 12 (Silky Black, 12 GB RAM, 256GB)_neighbor.png"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_TL002,Chrome 121.0.0.0,,,07-02-2024 23:43:27,07-02-2024 23:44:02,34.171s,PASSED
+,,,,,,,
+Test Cases/Amazon_testcase_002,Chrome 121.0.0.0,,,07-02-2024 23:43:28,07-02-2024 23:44:02,33.629s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,07-02-2024 23:43:28,07-02-2024 23:43:32,4.198s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,07-02-2024 23:43:33,07-02-2024 23:43:34,1.698s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,07-02-2024 23:43:34,07-02-2024 23:43:36,1.308s,PASSED
+"click(findTestObject(""Object Repository/Amazontestcase002_OR/Page_Online Shopping site in India Shop Onl_10c5f3/span_Hello, sign in""))",Chrome 121.0.0.0,,,07-02-2024 23:43:36,07-02-2024 23:43:38,2.089s,PASSED
+"setText(findTestObject(""Amazon_button002/Page_Amazon Sign In/input_Email or mobile phone number_email""), Email)",Chrome 121.0.0.0,,,07-02-2024 23:43:38,07-02-2024 23:43:40,2.392s,PASSED
+"click(findTestObject(""Object Repository/Amazontestcase002_OR/Page_Amazon Sign In/input_Enter your email or mobile phone numb_fc7402""))",Chrome 121.0.0.0,,,07-02-2024 23:43:40,07-02-2024 23:43:42,1.552s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazontestcase002_OR/Page_Amazon Sign In/input_Forgot Password_password""), ""0KgSb6dmQkDO+DyTs7S1JA=="")",Chrome 121.0.0.0,,,07-02-2024 23:43:42,07-02-2024 23:43:43,1.402s,PASSED
+"click(findTestObject(""Object Repository/Amazontestcase002_OR/Page_Amazon Sign In/input_Enter your password_signInSubmit""))",Chrome 121.0.0.0,,,07-02-2024 23:43:43,07-02-2024 23:43:44,0.646s,PASSED
+"selectOptionByValue(findTestObject(""Amazon_button002/Page_Online Shopping site in India Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in/select_All Categories""), ""search-alias=appliances"", true)",Chrome 121.0.0.0,,,07-02-2024 23:43:44,07-02-2024 23:43:53,9.360s,PASSED
+"setText(findTestObject(""Object Repository/Amazontestcase002_OR/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_field-keywords""), Input)",Chrome 121.0.0.0,,,07-02-2024 23:43:53,07-02-2024 23:43:55,1.854s,PASSED
+"click(findTestObject(""Object Repository/Amazontestcase002_OR/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_nav-search-submit-button""))",Chrome 121.0.0.0,,,07-02-2024 23:43:55,07-02-2024 23:44:01,5.791s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,07-02-2024 23:44:01,07-02-2024 23:44:02,0.916s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,07-02-2024 23:44:02,07-02-2024 23:44:02,0.013s,PASSED

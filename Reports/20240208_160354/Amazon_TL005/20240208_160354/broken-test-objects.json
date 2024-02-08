@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazontestcase005_OR/Page_Amazon Sign In/input_Forgot Password_password",
+      "brokenLocator": "//input[@id\u003d\u0027ap_password\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240208_160354/Amazon_TL005/20240208_160354/Object Repository/Amazontestcase005_OR/Page_Amazon Sign In/input_Forgot Password_password_position.png"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_testsuite004,Chrome 121.0.0.0,,,08-02-2024 14:59:56,08-02-2024 15:00:34,37.132s,PASSED
+,,,,,,,
+Test Cases/Amazon_testcase_004,Chrome 121.0.0.0,,,08-02-2024 14:59:57,08-02-2024 15:00:34,36.752s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,08-02-2024 14:59:57,08-02-2024 15:00:00,2.893s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,08-02-2024 15:00:00,08-02-2024 15:00:02,2.604s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,08-02-2024 15:00:02,08-02-2024 15:00:04,1.871s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,08-02-2024 15:00:04,08-02-2024 15:00:06,2.075s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,08-02-2024 15:00:06,08-02-2024 15:00:08,1.846s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,08-02-2024 15:00:08,08-02-2024 15:00:09,1.092s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,08-02-2024 15:00:09,08-02-2024 15:00:10,0.903s,PASSED
+"click(findTestObject(""Object Repository/Amazontestcase004_OR/Page_Online Shopping site in India Shop Onl_10c5f3/span_Hello, sign in""))",Chrome 121.0.0.0,,,08-02-2024 15:00:10,08-02-2024 15:00:23,12.545s,PASSED
+"setText(findTestObject(""Amazon_button004/Page_Amazon Sign In/input_Email or mobile phone number_email""), ""gopi9162816@gmail.com"")",Chrome 121.0.0.0,,,08-02-2024 15:00:23,08-02-2024 15:00:24,1.545s,PASSED
+"click(findTestObject(""Object Repository/Amazontestcase004_OR/Page_Amazon Sign In/input_Enter your email or mobile phone numb_fc7402""))",Chrome 121.0.0.0,,,08-02-2024 15:00:24,08-02-2024 15:00:25,0.876s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazontestcase004_OR/Page_Amazon Sign In/input_Forgot Password_password""), ""0KgSb6dmQkDO+DyTs7S1JA=="")",Chrome 121.0.0.0,,,08-02-2024 15:00:25,08-02-2024 15:00:26,1.221s,PASSED
+"click(findTestObject(""Object Repository/Amazontestcase004_OR/Page_Amazon Sign In/input_Enter your password_signInSubmit""))",Chrome 121.0.0.0,,,08-02-2024 15:00:26,08-02-2024 15:00:27,0.387s,PASSED
+"click(findTestObject(""Amazon_button004/Page_Online Shopping site/span_Account  Lists""))",Chrome 121.0.0.0,,,08-02-2024 15:00:27,08-02-2024 15:00:31,4.128s,PASSED
+"click(findTestObject(""Amazon_button004/Page_Your Account/h2_Your Orders""))",Chrome 121.0.0.0,,,08-02-2024 15:00:31,08-02-2024 15:00:33,2.028s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,08-02-2024 15:00:33,08-02-2024 15:00:33,0.523s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,08-02-2024 15:00:33,08-02-2024 15:00:33,0.009s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,08-02-2024 15:00:33,08-02-2024 15:00:34,0.005s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,08-02-2024 15:00:34,08-02-2024 15:00:34,0.010s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,08-02-2024 15:00:34,08-02-2024 15:00:34,0.008s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,08-02-2024 15:00:34,08-02-2024 15:00:34,0.007s,PASSED

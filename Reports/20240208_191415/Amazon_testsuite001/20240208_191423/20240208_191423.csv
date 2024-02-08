@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_testsuite001,Chrome 121.0.0.0,,,08-02-2024 19:14:30,08-02-2024 19:14:44,14.299s,FAILED
+,,,,,,,
+Test Cases/Amazon_testcase_001,Chrome 121.0.0.0,,,08-02-2024 19:14:30,08-02-2024 19:14:44,14.071s,FAILED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,08-02-2024 19:14:30,08-02-2024 19:14:33,3.174s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,08-02-2024 19:14:33,08-02-2024 19:14:35,1.897s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,08-02-2024 19:14:35,08-02-2024 19:14:37,1.897s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,08-02-2024 19:14:37,08-02-2024 19:14:39,2.120s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,08-02-2024 19:14:39,08-02-2024 19:14:41,2.144s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,08-02-2024 19:14:41,08-02-2024 19:14:42,1.204s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,08-02-2024 19:14:42,08-02-2024 19:14:43,0.945s,PASSED
+"click(findTestObject(""Object Repository/Page_Online Shopping site in India Shop Onl_10c5f3/span_Hello, sign in""))",Chrome 121.0.0.0,,,08-02-2024 19:14:43,08-02-2024 19:14:44,0.260s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,08-02-2024 19:14:44,08-02-2024 19:14:44,0.193s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,08-02-2024 19:14:44,08-02-2024 19:14:44,0.009s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,08-02-2024 19:14:44,08-02-2024 19:14:44,0.010s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,08-02-2024 19:14:44,08-02-2024 19:14:44,0.022s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,08-02-2024 19:14:44,08-02-2024 19:14:44,0.010s,PASSED

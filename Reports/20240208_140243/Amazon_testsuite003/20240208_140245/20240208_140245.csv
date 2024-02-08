@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_testsuite003,Chrome 121.0.0.0,,,08-02-2024 14:02:55,08-02-2024 14:03:26,31.228s,PASSED
+,,,,,,,
+Test Cases/Amazon_testcase_003,Chrome 121.0.0.0,,,08-02-2024 14:02:56,08-02-2024 14:03:26,30.752s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,08-02-2024 14:02:56,08-02-2024 14:03:01,4.845s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,08-02-2024 14:03:01,08-02-2024 14:03:04,3.401s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,08-02-2024 14:03:04,08-02-2024 14:03:06,1.536s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,08-02-2024 14:03:06,08-02-2024 14:03:08,2.179s,PASSED
+"click(findTestObject(""Object Repository/Amazontestcase003_OR/Page_Online Shopping site in India Shop Onl_10c5f3/a_Hello, sign in  Account  Lists""))",Chrome 121.0.0.0,,,08-02-2024 14:03:08,08-02-2024 14:03:10,2.258s,PASSED
+"setText(findTestObject(""Object Repository/Amazontestcase003_OR/Page_Amazon Sign In/input_Email or mobile phone number_email""), ""gopi9162816@gmail.com"")",Chrome 121.0.0.0,,,08-02-2024 14:03:10,08-02-2024 14:03:12,2.171s,PASSED
+"click(findTestObject(""Object Repository/Amazontestcase003_OR/Page_Amazon Sign In/input_Enter your email or mobile phone numb_fc7402""))",Chrome 121.0.0.0,,,08-02-2024 14:03:12,08-02-2024 14:03:14,1.644s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazontestcase003_OR/Page_Amazon Sign In/input_Forgot Password_password""), ""0KgSb6dmQkDO+DyTs7S1JA=="")",Chrome 121.0.0.0,,,08-02-2024 14:03:14,08-02-2024 14:03:15,1.321s,PASSED
+"click(findTestObject(""Object Repository/Amazontestcase003_OR/Page_Amazon Sign In/input_Enter your password_signInSubmit""))",Chrome 121.0.0.0,,,08-02-2024 14:03:15,08-02-2024 14:03:16,0.653s,PASSED
+"click(findTestObject(""Amazon_button003/Page_Online Shopping site in India Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in/span_Secunderabad 500009""))",Chrome 121.0.0.0,,,08-02-2024 14:03:16,08-02-2024 14:03:23,7.405s,PASSED
+"setText(findTestObject(""Object Repository/Amazontestcase003_OR/Page_Online Shopping site in India Shop Onl_10c5f3/input_or enter an Indian pincode_GLUXZipUpd_df256c""), ""500009"")",Chrome 121.0.0.0,,,08-02-2024 14:03:23,08-02-2024 14:03:25,1.858s,PASSED
+"click(findTestObject(""Object Repository/Amazontestcase003_OR/Page_Online Shopping site in India Shop Onl_10c5f3/input_or enter an Indian pincode_a-button-input""))",Chrome 121.0.0.0,,,08-02-2024 14:03:25,08-02-2024 14:03:26,0.523s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,08-02-2024 14:03:26,08-02-2024 14:03:26,0.520s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,08-02-2024 14:03:26,08-02-2024 14:03:26,0.014s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,08-02-2024 14:03:26,08-02-2024 14:03:26,0.015s,PASSED

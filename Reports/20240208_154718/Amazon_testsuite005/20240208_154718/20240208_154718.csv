@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_testsuite005,Chrome 121.0.0.0,,,08-02-2024 15:47:26,08-02-2024 15:48:24,57.761s,PASSED
+,,,,,,,
+Test Cases/Amazon_testcase_005,Chrome 121.0.0.0,,,08-02-2024 15:47:27,08-02-2024 15:48:24,57.159s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,08-02-2024 15:47:27,08-02-2024 15:47:31,4.579s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,08-02-2024 15:47:31,08-02-2024 15:47:33,1.983s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,08-02-2024 15:47:33,08-02-2024 15:47:37,3.276s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,08-02-2024 15:47:37,08-02-2024 15:47:40,3.080s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,08-02-2024 15:47:40,08-02-2024 15:47:42,1.840s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,08-02-2024 15:47:42,08-02-2024 15:47:44,1.596s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,08-02-2024 15:47:44,08-02-2024 15:47:45,0.900s,PASSED
+"click(findTestObject(""Object Repository/Amazontestcase005_OR/Page_Online Shopping site in India Shop Onl_10c5f3/span_Hello, sign in""))",Chrome 121.0.0.0,,,08-02-2024 15:47:45,08-02-2024 15:48:03,18.594s,PASSED
+"setText(findTestObject(""Amazon_button005/Page_Amazon Sign In/input_Email or mobile phone number_email""), Email)",Chrome 121.0.0.0,,,08-02-2024 15:48:03,08-02-2024 15:48:05,1.774s,PASSED
+"click(findTestObject(""Object Repository/Amazontestcase005_OR/Page_Amazon Sign In/input_Enter your email or mobile phone numb_fc7402""))",Chrome 121.0.0.0,,,08-02-2024 15:48:05,08-02-2024 15:48:06,1.074s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazontestcase005_OR/Page_Amazon Sign In/input_Forgot Password_password""), ""0KgSb6dmQkDO+DyTs7S1JA=="")",Chrome 121.0.0.0,,,08-02-2024 15:48:06,08-02-2024 15:48:07,1.405s,PASSED
+"click(findTestObject(""Object Repository/Amazontestcase005_OR/Page_Amazon Sign In/input_Enter your password_signInSubmit""))",Chrome 121.0.0.0,,,08-02-2024 15:48:07,08-02-2024 15:48:08,0.490s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Amazontestcase005_OR/Page_Online Shopping site in India Shop Onl_10c5f3/select_All Categories        Alexa Skills  _a62561""), ""search-alias=appliances"", true)",Chrome 121.0.0.0,,,08-02-2024 15:48:08,08-02-2024 15:48:15,7.202s,PASSED
+"setText(findTestObject(""Object Repository/Amazontestcase005_OR/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_field-keywords""), Input)",Chrome 121.0.0.0,,,08-02-2024 15:48:15,08-02-2024 15:48:16,1.065s,PASSED
+"click(findTestObject(""Object Repository/Amazontestcase005_OR/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_nav-search-submit-button""))",Chrome 121.0.0.0,,,08-02-2024 15:48:16,08-02-2024 15:48:22,5.679s,PASSED
+"click(findTestObject(""Object Repository/Amazontestcase005_OR/Page_Amazon.in  one plus 12/span_OnePlus 12 (Silky Black, 12 GB RAM, 256GB)""))",Chrome 121.0.0.0,,,08-02-2024 15:48:22,08-02-2024 15:48:23,1.300s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,08-02-2024 15:48:23,08-02-2024 15:48:24,0.614s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,08-02-2024 15:48:24,08-02-2024 15:48:24,0.010s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,08-02-2024 15:48:24,08-02-2024 15:48:24,0.011s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,08-02-2024 15:48:24,08-02-2024 15:48:24,0.012s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,08-02-2024 15:48:24,08-02-2024 15:48:24,0.012s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,08-02-2024 15:48:24,08-02-2024 15:48:24,0.009s,PASSED

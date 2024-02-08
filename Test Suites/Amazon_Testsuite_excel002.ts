@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Amazon_Testsuite_excel002</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>5b888269-212d-438d-87ba-dd0139e1f434</testSuiteGuid>
+   <testCaseLink>
+      <guid>6a12df36-4310-46ff-a4e4-6d88ba0ac7aa</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Amazon_testcase_002</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9b75e728-78f7-4857-ad9a-51ac3fbdc098</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Amazon_excel002</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>9b75e728-78f7-4857-ad9a-51ac3fbdc098</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>7515a02e-8c53-4808-ac2c-c4da040f47cf</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9b75e728-78f7-4857-ad9a-51ac3fbdc098</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Input</value>
+         <variableId>6515bf35-f6f5-42fc-9b4e-c9011bf5feed</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
